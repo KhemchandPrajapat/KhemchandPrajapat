@@ -89,45 +89,41 @@ React • Node.js • MongoDB • Express
 Python • NLP • FastAPI
 
 ---
-# 🛠️ Tech Stack
-
-### Programming Languages
-- Python
-- SQL
-- C++
-- JavaScript
-
-### Data Analytics
-- Power BI
-- Microsoft Excel
-- Pandas
-- NumPy
-
-### Web Development
-- FastAPI
-- React
-- HTML
-- CSS
-
-### Tools
-- Git
-- GitHub
-- VS Code
-
-### Database
-- MySQL
-- MongoDB
-
----
-
 ## 📜 Certifications
 
-- Google Cloud Skills Boost
-- MongoDB Basics
-- Python Programming
-- Data Analytics & AI Certifications
+- 🏅 Google Cloud Skills Boost
+  - Prompt Design in Vertex AI
+  - Explore Generative AI with Gemini
+  - Imagen on Vertex AI
 
+- ☁️ Google AI Bootcamp 2025
+  - Build with AI (GDG Jaipur & TFUG Jaipur)
+
+- 🍃 MongoDB Basics Certification
+
+- 📊 Power BI & Data Analytics
+
+- 🐍 Python Programming
+
+- 🤖 Machine Learning Fundamentals
+
+- 📈 Microsoft Excel for Data Analysis
+
+- 💻 Git & GitHub Version Control
+
+- 🎯 Data Analytics & Business Intelligence
+
+  ---
+
+## 🏆 Achievements
+
+- 🥇 Smart India Hackathon (SIH) Finalist
+- 📄 Research Paper Published – *Crop Disease Detection Using Machine Learning* (ICETSES 2026)
+- 🚀 Built multiple AI, Data Analytics & Full-Stack Projects
+- 📊 Currently working as Junior Data Analyst at Shri Mahalaxmi Autoparts Pvt. Ltd.
 ---
+  
+
 
 # 💻 Tech Stack
 
@@ -144,17 +140,6 @@ Python • NLP • FastAPI
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KhemchandPrajapat&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhemchandPrajapat&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
