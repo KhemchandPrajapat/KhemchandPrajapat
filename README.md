@@ -96,7 +96,7 @@
 
 # 🚀 Featured Projects
 
-## 📊 Excel Analytics Platform
+## 📊 Excel Analytics Platform 🔗 Repository: https://github.com/KhemchandPrajapat/Excel-Analytics-Platform
 
 A modern web-based platform for Excel data visualization, dashboard creation, and smart report generation.
 
