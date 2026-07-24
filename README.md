@@ -129,14 +129,6 @@ Python • NLP • FastAPI
 
 ---
 
-
----
-
-⭐ *"Always learning, always building, and always improving."*
-
-
----
-
 # 💻 Tech Stack
 
 <p align="left">
@@ -167,17 +159,8 @@ Python • NLP • FastAPI
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=KhemchandPrajapat&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=KhemchandPrajapat&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KhemchandPrajapat&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhemchandPrajapat&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🌐 Connect With Me
@@ -192,4 +175,8 @@ Python • NLP • FastAPI
 <p align="center">
   <img src="./Github_Banner.png" alt="Khemchand Prajapat Banner" width="100%" />
 </p>
+
+---
+⭐ *"Always learning, always building, and always improving."*
+---
 
