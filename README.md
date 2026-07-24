@@ -63,6 +63,32 @@
 
 ---
 
+
+# 🚀 Featured Projects
+
+## 📊 Excel Analytics Platform         🔗 [Repository](https://github.com/KhemchandPrajapat/Excel-Analytics-Platform)
+
+A modern web-based platform for Excel data visualization, dashboard creation, and smart report generation.
+
+### Technologies
+Python • FastAPI • React • Pandas • Plotly
+
+---
+
+## 📝 Online Blogging Platform    🔗 [Repository](https://github.com/KhemchandPrajapat/Online-Blogging-Platform)
+
+
+A full-stack blogging platform featuring authentication, rich text editing, likes, comments, and responsive design.
+
+### Technologies
+React • Node.js • MongoDB • Express
+
+---
+
+### Technologies
+Python • NLP • FastAPI
+
+---
 # 🛠️ Tech Stack
 
 ### Programming Languages
@@ -94,32 +120,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 📊 Excel Analytics Platform         🔗 [Repository](https://github.com/KhemchandPrajapat/Excel-Analytics-Platform)
-
-A modern web-based platform for Excel data visualization, dashboard creation, and smart report generation.
-
-### Technologies
-Python • FastAPI • React • Pandas • Plotly
-
----
-
-## 📝 Online Blogging Platform    🔗 [Repository](https://github.com/KhemchandPrajapat/Online-Blogging-Platform)
-
-
-A full-stack blogging platform featuring authentication, rich text editing, likes, comments, and responsive design.
-
-### Technologies
-React • Node.js • MongoDB • Express
-
----
-
-### Technologies
-Python • NLP • FastAPI
-
----
-
 ## 📜 Certifications
 
 - Google Cloud Skills Boost
@@ -147,8 +147,11 @@ Python • NLP • FastAPI
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KhemchandPrajapat&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhemchandPrajapat&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KhemchandPrajapat&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhemchandPrajapat&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -165,12 +168,7 @@ Python • NLP • FastAPI
 
 <a href="mailto:kpprajapat76@gmail.com">Email</a> •
 <a href="https://www.linkedin.com/in/khemchandprajapat10">LinkedIn</a> •
-<a href="https://github.com/KhemchandPrajapat">GitHub</a>
-  
-
-<p align="center">
-  <img src="./Github_Banner.png" alt="Khemchand Prajapat Banner" width="100%" />
-</p>
+<a href="https://github.com/KhemchandPrajapat">GitHub</a>  
 
 ---
 ⭐ *"Always learning, always building, and always improving."*
