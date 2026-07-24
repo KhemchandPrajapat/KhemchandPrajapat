@@ -96,7 +96,7 @@
 
 # 🚀 Featured Projects
 
-## 📊 Excel Analytics Platform 🔗 Repository: https://github.com/KhemchandPrajapat/Excel-Analytics-Platform
+## 📊 Excel Analytics Platform         🔗 [Repository](https://github.com/KhemchandPrajapat/Excel-Analytics-Platform)
 
 A modern web-based platform for Excel data visualization, dashboard creation, and smart report generation.
 
@@ -105,7 +105,8 @@ Python • FastAPI • React • Pandas • Plotly
 
 ---
 
-## 📝 Online Blogging Platform
+## 📝 Online Blogging Platform    🔗 [Repository](https://github.com/KhemchandPrajapat/Online-Blogging-Platform)
+
 
 A full-stack blogging platform featuring authentication, rich text editing, likes, comments, and responsive design.
 
