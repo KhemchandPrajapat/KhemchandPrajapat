@@ -7,8 +7,7 @@
 
 # Hi 👋, I'm Khemchand Prajapat
 
-### AI & Data Science Engineer | Aspiring Data Analyst | Python Developer
-
+### AI & Data Science Engineer | Data Analytics | Power BI | Python | SQL
 🎓 Final Year B.Tech Student in Artificial Intelligence & Data Science  
 💼 Currently working as **Junior Data Analyst & Computer Operator** at **Shri Mahalaxmi Autoparts Pvt. Ltd.**  
 📍 Jaipur, Rajasthan, India
