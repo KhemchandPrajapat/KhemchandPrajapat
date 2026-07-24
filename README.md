@@ -194,15 +194,10 @@ https://github.com/KhemchandPrajapat
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/khemchandprajapat10">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:kpprajapat76@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+<a href="mailto:kpprajapat76@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/khemchandprajapat10">LinkedIn</a> •
+<a href="https://github.com/KhemchandPrajapat">GitHub</a>
+  
 
 <p align="center">
   <img src="./Github_Banner.png" alt="Khemchand Prajapat Banner" width="100%" />
