@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="Github_Banner" src="https://github.com/user-attachments/assets/610f5517-8399-48e5-9a88-b7aa8dffb165" />
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Khemchand+Prajapat;AI+%26+Data+Science+Engineer;Aspiring+Data+Analyst;Power+BI+Developer;Python+Developer"/>
@@ -202,5 +203,9 @@ https://github.com/KhemchandPrajapat
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
+</p>
+
+<p align="center">
+  <img src="./Github_Banner.png" alt="Khemchand Prajapat Banner" width="100%" />
 </p>
 
