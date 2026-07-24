@@ -131,7 +131,7 @@ Python • NLP • FastAPI
 ## 📫 Connect With Me
 
 📧 **Email:**  
-**kpprajapat76@gmail.com**
+**kpparjapat76@gmail.com**
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/khemchand-prajapat-15935b28a
