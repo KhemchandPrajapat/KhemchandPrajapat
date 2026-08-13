@@ -66,6 +66,20 @@
 
 # 🚀 Featured Projects
 
+## 📊 Superstore Power BI Dashboard     🔗 [Repository](https://github.com/KhemchandPrajapat/Superstore-PowerBI-Dashboard)
+
+An interactive Power BI dashboard designed to analyze Superstore sales data and generate meaningful business insights through interactive visualizations and KPIs.
+
+### Key Analysis
+- 📈 Sales & Profit Performance
+- 📦 Product & Category Analysis
+- 👥 Customer Analysis
+- 🌍 Regional & Geographic Insights
+- 📊 Interactive KPIs and Visualizations
+
+### Technologies
+Power BI • DAX • Data Modeling • Data Visualization • Microsoft Excel
+
 ## 📊 Excel Analytics Platform         🔗 [Repository](https://github.com/KhemchandPrajapat/Excel-Analytics-Platform)
 
 A modern web-based platform for Excel data visualization, dashboard creation, and smart report generation.
