@@ -28,7 +28,7 @@
 
 ### 💼 Junior Data Analyst & Computer Operator
 **Shri Mahalaxmi Autoparts Pvt. Ltd.** *(Current)*
-
+- create Power BI dashboard using DAX, Query, Python, SQL, Excel  
 - Preparing Excel-based MIS reports and business reports.
 - Managing operational and business data.
 - Supporting data analysis and reporting activities.
